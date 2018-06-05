@@ -1,6 +1,6 @@
 # ASPNETCoreScheduler
 
-Domo code for blog posts:
+Demo code for background processing and scheduling with IHostedService. Blog posts on how to use the code:
 
 [ASP.NET Core background processing](https://pgroene.wordpress.com/2018/02/21/asp-net-core-background-processing/)
 
