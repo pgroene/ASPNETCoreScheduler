@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  aspnetcorescheduler:
+    image: ${DOCKER_REGISTRY}aspnetcorescheduler
+    build:
+      context: .
+      dockerfile: ASPNETCoreScheduler/Dockerfile
